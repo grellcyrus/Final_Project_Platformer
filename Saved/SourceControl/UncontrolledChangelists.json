@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/NewMap.umap",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Base.umap",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Maps/Base.umap",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Movement.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/Mapping_Player.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Player/BP_Player.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IMC_Player.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Player/BP_GameMode.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Interact.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Jump.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Look.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Blueprints/NewGameMode.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interfaces/Inter_Interact.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/Interactable.uasset"
+			]
+		}
+	]
+}
