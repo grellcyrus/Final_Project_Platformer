@@ -9,7 +9,6 @@
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Base.umap",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Maps/Base.umap",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Movement.uasset",
-				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/Mapping_Player.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Player/BP_PlayerCont.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Player/BP_Player.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IMC_Player.uasset",
@@ -19,7 +18,10 @@
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/IA_Look.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Blueprints/NewGameMode.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interfaces/Inter_Interact.uasset",
-				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/Interactable.uasset"
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/Interactable.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/UI/HUD_TEST.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/Mapping_Player.uasset"
 			]
 		}
 	]
