@@ -22,6 +22,8 @@
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/BP_PhysicsPickup.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/UI/HUD_TEST.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Interactables/animated_interactables/BP_Door.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Enemy/Turret/BP_Turret.uasset",
+				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/Enemy/Turret/BP_TurretProjectile.uasset",
 				"C:/Users/lunar/Documents/Game Projects/Platformer_Project/Content/inputs/Mapping_Player.uasset"
 			]
 		}
