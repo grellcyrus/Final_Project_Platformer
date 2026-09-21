@@ -1,6 +1,23 @@
-[29440:29368:0910/013106.360:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29440:33808:0910/013106.391:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29440:29368:0910/013106.404:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[40424:29380:0910/013109.628:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C000099206E7A8CA69AE8C615BFD6BD7 will be ignored
-[29440:33840:0910/020718.606:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[29440:29368:0910/021658.805:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[21968:5032:0920/192359.007:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21968:34568:0920/192359.037:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21968:5032:0920/192359.054:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18476:14016:0920/192402.383:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-F70C206005A60B6249F369DE2D1C5F35 will be ignored
+[19704:944:0920/192403.176:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19704:6960:0920/192403.195:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19704:6960:0920/192403.196:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19704:6960:0920/192403.196:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[21968:6724:0920/192403.502:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[21968:5032:0920/192403.686:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21968:5032:0920/192403.686:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21968:5032:0920/192403.686:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21968:5032:0920/192403.686:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21968:6724:0920/192403.690:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[27380:33232:0920/192403.866:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27380:336:0920/192403.901:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27380:336:0920/192403.902:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27380:336:0920/192403.902:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[27380:33232:0920/192406.151:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33820:27580:0920/192612.160:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[33820:27580:0920/192612.160:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21968:6724:0920/192814.495:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[21968:5032:0920/201551.921:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
